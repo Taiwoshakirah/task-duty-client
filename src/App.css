@@ -1,0 +1,67 @@
+#root {
+
+  text-align: center;
+}
+
+.label1,
+.label3{
+  top: -33%;
+  left: 3%;
+}
+
+.label2{
+  top: -8%;
+  left: 3%;
+}
+
+button{
+  left: 10px;
+  background-color: #974FD0;
+}
+.duty{
+  color: #974FD0;
+}
+.lor{
+  color: #737171;
+}
+
+.lor{
+  padding-right: 90px;
+}
+
+.colorchange{
+  color:#974FD0 ;
+}
+
+.edit{
+  background-color: #974FD0;
+  color: white;
+}
+
+.delete{
+ border-color: #974FD0;
+  color: #974FD0;
+}
+
+.btn{
+  color: #974FD0;
+}
+.pupi{
+  background-color: #974FD0;
+}
+.newtaskbutton{
+  background-color: #974FD0;
+}
+
+.task-tag {
+  font-weight: bold;
+  text-transform: capitalize;
+}
+
+.task-tag.urgent {
+  color: #F38383;
+}
+
+.task-tag.important {
+  color: #73C3A6;
+}
